@@ -77,7 +77,7 @@ This demonstrates:
 ## System Configuration Verification
 
 ### Network Interfaces
-![IP Configuration](screenshots/ip-a.png)
+![IP Configuration](screenshots/ip-config.png)
 
 ### Zeek Status
 ![Zeek Status](screenshots/zeek-status.png)
