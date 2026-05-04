@@ -62,10 +62,25 @@ Example output:
 192.168.56.103 → 192.168.56.104 tcp REJ
 ```
 
+---
+
+### Connection Log Evidence
+![Connection Log](screenshots/conn-log.png)
+
 This demonstrates:
 - Detection of port scanning activity
 - Logging of rejected connection attempts
 - Real-time monitoring of network traffic
+
+---
+
+## System Configuration Verification
+
+### Network Interfaces
+![IP Configuration](screenshots/ip-a.png)
+
+### Zeek Status
+![Zeek Status](screenshots/zeek-status.png)
 
 ---
 
@@ -81,8 +96,3 @@ This demonstrates:
 - Integrate Logstash, Elasticsearch, and Kibana (ELK stack)
 - Develop dashboards for traffic visualization
 - Implement detection rules for specific attack patterns
-
----
-
-## Screenshots
-(Add screenshots demonstrating Zeek logs, network configuration, and system status)
